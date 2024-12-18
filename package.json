@@ -1,0 +1,12 @@
+{
+    "name": "posticks",
+    "private": true,
+    "version": "1.0.0",
+    "workspaces": [
+        "backend",
+        "frontend"
+    ],
+    "repository": "git@github.com:yakirsp/posticks.git",
+    "author": "yakirsp <yakirsp@icloud.com>",
+    "license": "MIT"
+}
