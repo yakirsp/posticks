@@ -1,0 +1,13 @@
+{
+  "ts-node": {
+    "transpileOnly": true,
+    "files": true,
+    "compilerOptions": {
+      "target": "ES5",
+      "module": "ES2015"
+    }
+  },
+  "compilerOptions": {
+    "outDir": "dist"
+  }
+}
